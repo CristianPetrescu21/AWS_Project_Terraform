@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # AWS Infrastructure with Terraform
 
 This Terraform configuration sets up a scalable, secure, and high-availability infrastructure on AWS. It includes a Virtual Private Cloud (VPC) with subnets, security groups, an Internet Gateway, NAT Gateway, Auto Scaling groups, and an Application Load Balancer with associated resources.
